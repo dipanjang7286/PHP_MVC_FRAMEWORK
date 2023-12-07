@@ -1,0 +1,16 @@
+{
+    "name": "dipanjanghosh/php_mvc_framework",
+    "description": "Learning MVC OOP for PHP",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "dipanjang7286",
+            "email": "71178502+dipanjang7286@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
